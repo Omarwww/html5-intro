@@ -1,0 +1,12 @@
+nav>ul>li{
+    display: inline;
+    margin-right: 30px;
+    background-color: red;
+}
+nav>ul>li>a{
+    text-decoration:none;
+}
+footer{
+    margin-top: 40px;
+    text-align: center;
+}
